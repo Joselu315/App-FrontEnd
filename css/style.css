@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+.row{
+    text-align: center;
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.top{
+    background-color: darkblue;
+    padding: 100px;
+    padding-left: 290px;
+}
